@@ -17,7 +17,7 @@ package logging
 import (
 	"net"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/rspier/caddy/v2"
 	"go.uber.org/zap/zapcore"
 )
 

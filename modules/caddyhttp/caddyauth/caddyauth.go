@@ -19,8 +19,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
+	"github.com/rspier/caddy/v2"
+	"github.com/rspier/caddy/v2/modules/caddyhttp"
 )
 
 func init() {
